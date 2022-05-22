@@ -1,2 +1,2 @@
-var root = ReactDOM.createRoot(document.querySelector('#app'));
+var root = ReactDOM.createRoot(document.getElementById('app'));
 root.render(<App />);
