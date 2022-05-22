@@ -2,7 +2,7 @@ function App(){
   return (
     <div>
       <TextComponent />
-      <MainContainerd />
+      <MainContainer />
     </div>
   )
 }
