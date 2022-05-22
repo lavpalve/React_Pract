@@ -1,3 +1,3 @@
-function APP(){
+const APP = ()=>{
   return <TextComponent />
 }
