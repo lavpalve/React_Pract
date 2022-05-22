@@ -1,3 +1,7 @@
 function App(){
-  return <TextComponent />;
+  return (
+    <div>
+      <TextComponent />
+    </div>
+  )
 }
