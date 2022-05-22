@@ -1,3 +1,3 @@
-const APP = ()=>{
-  return <TextComponent />
+function App(){
+  return <TextComponent />;
 }
