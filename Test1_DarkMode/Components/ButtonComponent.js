@@ -1,5 +1,5 @@
 function ButtonComponent(){
   return(
-    <button class="btn btn-primary">Click Me</button>
+    <button id="btn" class="btn btn-primary">Click Me</button>
   )
 }
