@@ -1,3 +1,3 @@
 function APP(){
-  return </TextComponent />
+  return <TextComponent />
 }
